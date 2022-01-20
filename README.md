@@ -1,7 +1,7 @@
 
- CSC258H5S Fall 2021 Assembly Final Project: Frogger
- University of Toronto, St. George
- Student: Jasmine Zhuang
+ # CSC258H5S Fall 2021 Assembly Final Project: Frogger
+ -University of Toronto, St. George
+ -Student: Jasmine Zhuang
 
 # Bitmap Display Configuration:
  - Unit width in pixels: 8
