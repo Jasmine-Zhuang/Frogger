@@ -16,8 +16,8 @@
  4. Display the player's score at the top right of the screen(level1 max 3, level2 max3,but can keep playing if still alive)
  5. After final player death, display game over/retry screen. Restart the game by pressing R key. End the game by pressing E key.(R and E can also be used during the game)
 # Any additional information:
- -frog moves left or right once per pixel, up and down once per 4 pixel.
- -lives display on the top left(if enter level2, lives turn from yellow to blue)
+ - frog moves left or right once per pixel, up and down once per 4 pixel.
+ - lives display on the top left(if enter level2, lives turn from yellow to blue)
  scores display on the top right(max 5, to enter level2, 3 scores needed)
- -5 goal spots, once occuiped, disappered. In level2, 2 will remain.
- -level2 have longer car, faster moving cars and logs.
+ - 5 goal spots, once occuiped, disappered. In level2, 2 will remain.
+ - level2 have longer car, faster moving cars and logs.
